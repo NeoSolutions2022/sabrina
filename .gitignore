@@ -1,0 +1,60 @@
+# .gitignore para uma aplicação .NET 6 Web API
+
+# Binários
+bin/
+obj/
+
+# Arquivos de compilação
+*.exe
+*.dll
+*.pdb
+
+# Logs e caches
+*.log
+*.vscode/
+.vs/
+
+# Diretório de publicação
+publish/
+
+# Arquivos temporários
+*.user
+*.suo
+*.tmp
+
+# Arquivos de configuração
+*.swp
+*.swn
+*.swo
+
+# Diretório de pacotes
+packages/
+
+# Diretório node_modules
+node_modules/
+
+# Diretório de ferramentas
+tools/
+
+# Arquivos de compilação Unity
+Library/
+Temp/
+UnityPackageManager/
+
+# Arquivos de compilação Xamarin
+*.suo
+*.user
+*.userprefs
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Configurações de Rider
+.idea/
+
+# Arquivos de compilação Visual Studio
+.vscode/
+.vs/
